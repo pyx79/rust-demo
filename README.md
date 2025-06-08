@@ -1,4 +1,4 @@
-# emo-rust-server
+# demo-rust-server
 preview
 
 
